@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Parsi Permalink Translator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-10 15:11+0330\n"
+"PO-Revision-Date: 2015-04-10 15:11+0330\n"
+"Last-Translator: \n"
+"Language-Team: WP-Parsi.com <i@parsa.ws>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wpppt.php:108 ../wpppt.php:112
+msgid "Translate Title for Slug"
+msgstr "ترجمه عنوان برای نامک"
+
+#: ../wpppt.php:164
+msgid "Permalink Translator"
+msgstr "مترجم لینک"
+
+#: ../wpppt.php:214
+msgid "WP-Parsi Permalink Translator"
+msgstr "مترجم لینک وردپرس پارسی"
+
+#: ../wpppt.php:218
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: ../wpppt.php:223
+msgid "Microsoft Account Key:"
+msgstr "کلید کاربری مایکروسافت:"
+
+#: ../wpppt.php:229
+msgid ""
+"This plugin use Microsoft Translator API for translate posts slug. for "
+"active plugin go to Microsoft Azure Marketplace Account > <a href='https://"
+"datamarket.azure.com/account/keys' target='_blank'>Account Keys</a> and copy "
+"Default key or create new key for set this option. And then go to <a "
+"href='https://datamarket.azure.com/dataset/bing/microsofttranslator' "
+"target='_blank'>Microsoft Translator page</a> and active translate plan "
+"(Free plan maximum 2,000,000 Characters per month)"
+msgstr ""
+"این افزونه برای ترجمه نامک پستها از API مترجم مایکروسافت استفاده میکند. برای "
+"فعالسازی افزونه به صفحه Microsoft Azure Marketplace » <a href='https://"
+"datamarket.azure.com/account/keys'  target='_blank'>کلیدهای کاربری</a> بروید "
+"و از کلید پیشفرض استفاده کنید یا کلید جدیدی بسازید و مقدار آن را برای تنظیم "
+"این گزینه کپی کنید. و سپس به <a href='https://datamarket.azure.com/dataset/"
+"bing/microsofttranslator'  target='_blank'>صفحه مترجم مایکروسافت</a> بروید و "
+"طرح ترجمه را فعال کنید (طرح رایگان حداکثر ۲.۰۰۰.۰۰۰ حرف در ماه را ترجمه "
+"میکند)"
+
+#: ../wpppt.php:234
+msgid "From Language:"
+msgstr "از زبان:"
+
+#: ../wpppt.php:238
+msgid "To Language:"
+msgstr "به زبان:"
+
+#: ../wpppt.php:242
+msgid "Post Type:"
+msgstr "نوع پست:"
+
+#: ../wpppt.php:254
+msgid "Save"
+msgstr "ذخیره"
+
+#: ../wpppt.php:259
+msgid "Parsa Web Design"
+msgstr "طراحی وب پارسا"
+
+#: ../wpppt.php:268
+msgid "Arabic"
+msgstr "عربی"
+
+#: ../wpppt.php:269
+msgid "Bulgarian"
+msgstr "بلغاری"
+
+#: ../wpppt.php:270
+msgid "Catalan"
+msgstr "کاتالان"
+
+#: ../wpppt.php:271
+msgid "Czech"
+msgstr "چک"
+
+#: ../wpppt.php:272
+msgid "Danish"
+msgstr "دانمارکی"
+
+#: ../wpppt.php:273
+msgid "German"
+msgstr "آلمانی"
+
+#: ../wpppt.php:274
+msgid "Greek"
+msgstr "یونان"
+
+#: ../wpppt.php:275
+msgid "English"
+msgstr "انگلیسی"
+
+#: ../wpppt.php:276
+msgid "Spanish"
+msgstr "اسپانیایی"
+
+#: ../wpppt.php:277
+msgid "Estonian"
+msgstr "استونی"
+
+#: ../wpppt.php:278
+msgid "Farsi"
+msgstr "فارسی"
+
+#: ../wpppt.php:279
+msgid "Finnish"
+msgstr "فنلاندی"
+
+#: ../wpppt.php:280
+msgid "French"
+msgstr "فرانسوی"
+
+#: ../wpppt.php:281
+msgid "Hindi"
+msgstr "هندی"
+
+#: ../wpppt.php:282
+msgid "Haitian Creole"
+msgstr "کریول هائیتی"
+
+#: ../wpppt.php:283
+msgid "Hungarian"
+msgstr "مجاری"
+
+#: ../wpppt.php:284
+msgid "Italian"
+msgstr "ایتالیایی"
+
+#: ../wpppt.php:285
+msgid "Japanese"
+msgstr "ژاپنی"
+
+#: ../wpppt.php:286
+msgid "Korean"
+msgstr "کره ای"
+
+#: ../wpppt.php:287
+msgid "Lithuanian"
+msgstr "لیتوانی"
+
+#: ../wpppt.php:288
+msgid "Latvian (Lettish)"
+msgstr "لتونی (Lettish)"
+
+#: ../wpppt.php:289
+msgid "Malay"
+msgstr "مالایا"
+
+#: ../wpppt.php:290
+msgid "Dutch"
+msgstr "هلندی"
+
+#: ../wpppt.php:291
+msgid "Norwegian"
+msgstr "نروژی"
+
+#: ../wpppt.php:292
+msgid "Polish"
+msgstr "لهستانی"
+
+#: ../wpppt.php:293
+msgid "Portuguese"
+msgstr "پرتغالی"
+
+#: ../wpppt.php:294
+msgid "Romanian"
+msgstr "رومانیایی"
+
+#: ../wpppt.php:295
+msgid "Russian"
+msgstr "روسی"
+
+#: ../wpppt.php:296
+msgid "Slovak"
+msgstr "اسلواکیایی"
+
+#: ../wpppt.php:297
+msgid "Slovenian"
+msgstr "اسلوونیایی"
+
+#: ../wpppt.php:298
+msgid "Swedish"
+msgstr "سوئدی"
+
+#: ../wpppt.php:299
+msgid "Thai"
+msgstr "تایلندی"
+
+#: ../wpppt.php:300
+msgid "Turkish"
+msgstr "ترکی"
+
+#: ../wpppt.php:301
+msgid "Ukrainian"
+msgstr "اوکراینی"
+
+#: ../wpppt.php:302
+msgid "Urdu"
+msgstr "اردو"
+
+#: ../wpppt.php:303
+msgid "Vietnamese"
+msgstr "ویتنامی"
+
+#~ msgid "Settings Updated."
+#~ msgstr "تنظیمات بروز شدند."
+
+#~ msgid ""
+#~ "This plugin use Microsoft Translator API for translate posts slug. for "
+#~ "active plugin go to Microsoft Azure Marketplace Account > <a "
+#~ "href='https://datamarket.azure.com/account/keys'>Account Keys</a> and "
+#~ "copy Default key or create new key for set this option. And then go to <a "
+#~ "href='https://datamarket.azure.com/dataset/bing/"
+#~ "microsofttranslator'>Microsoft Translator page</a> and active translate "
+#~ "plan (Free plan maximum 2,000,000 Characters per month)"
+#~ msgstr ""
+#~ "این افزونه از API مترجم مایکروسافت استفاده میکند برای ترجمه نامک پستها. "
+#~ "برای فعالسازی افزونه به صفحه Microsoft Azure Marketplace » <a "
+#~ "href='https://datamarket.azure.com/account/keys'  target='_blank'>کلیدهای "
+#~ "کاربری</a> بروید و استفاده کنید از کلید پیشفرض یا کلید جدیدی بسازید و "
+#~ "مقدار آن را برای تنظیم این گزینه کپی کنید. و سپس به <a href='https://"
+#~ "datamarket.azure.com/dataset/bing/microsofttranslator'  "
+#~ "target='_blank'>صفحه مترجم مایکروسافت</a> بروید و طرح ترجمه را فعال کنید "
+#~ "(طرح رایگان حداکثر ۲.۰۰۰.۰۰۰ حرف در ماه را ترجمه میکند)"
+
+#~ msgid ""
+#~ "This plugin use Microsoft Translator API for translate posts slug. for "
+#~ "active plugin go to Microsoft Azure Marketplace Account > <a "
+#~ "href='https://datamarket.azure.com/account/keys'>Account Keys</a> and "
+#~ "copy Default key or create new key for set this option. And then go to "
+#~ "Microsoft Translator page and active translate plan (Free plan maximum "
+#~ "2,000,000 Characters per month)"
+#~ msgstr ""
+#~ "این افزونه از API مترجم مایکروسافت استفاده میکند برای ترجمه نامک پستها. "
+#~ "برای فعالسازی افزونه به صفحه Microsoft Azure Marketplace » <a "
+#~ "href='https://datamarket.azure.com/account/keys'>کلیدهای کاربری</a> بروید "
+#~ "و استفاده کنید از کلید پیشفرض یا کلید جدیدی بسازید و مقدار آن را برای "
+#~ "تنظیم این گزینه کپی کنید. و سپس به صفحه مترجم مایکروسافت بروید و طرح "
+#~ "ترجمه را فعال کنید (طرح رایگان حداکثر ۲.۰۰۰.۰۰۰ حرف در ماه را ترجمه میکند)"
+
+#~ msgid ""
+#~ "This plugin use Microsoft Translator API for translate post slug. for "
+#~ "active plugin go to Microsoft Azure Marketplace Account > <a "
+#~ "href='https://datamarket.azure.com/account/keys'>Account Keys</a> and "
+#~ "copy Default key or create new key for set this option. And then go to "
+#~ "Microsoft Translator page and active translate plan (Free plan maximum "
+#~ "2,000,000 Characters per month)"
+#~ msgstr ""
+#~ "این افزونه از API مترجم مایکروسافت استفاده میکند برای ترجمه نامک پستها"
+
+#~ msgid "Generate Shortlinks"
+#~ msgstr "ایجاد لینک کوتاه"
+
+#~ msgid "Generate Shortlinks."
+#~ msgstr "لینک کوتاه ایجاد شد"
+
+#~ msgid "Posts Generate Shortlinks."
+#~ msgstr "لینک کوتاه برای پستها ایجاد شد"
+
+#~ msgid "Error in connect to webservice!"
+#~ msgstr "خطا در اتصال به سرویس دهنده"
+
+#~ msgid "Link not validate!"
+#~ msgstr "لینک اعتبار ندارد!"
+
+#~ msgid "WPU Shortlinks"
+#~ msgstr "کوتاه کننده لینک WPU"
+
+#~ msgid "Generate Content URL Shortlinks"
+#~ msgstr "ایجاد لینک کوتاه لینکهای محتوای پست"
+
+#~ msgid "Active"
+#~ msgstr "فعال"
+
+#~ msgid "Access With Admin Bar"
+#~ msgstr "دسترسی با نوار مدیریت"
+
+#~ msgid "Display Shortlink in Post Content"
+#~ msgstr "نمایش لینک کوتاه در محتوای پست"
+
+#~ msgid "Type: "
+#~ msgstr "نوع:"
+
+#~ msgid "Text"
+#~ msgstr "متنی"
+
+#~ msgid "Textbox"
+#~ msgstr "فیلد متنی"
+
+#~ msgid "Social Sharing"
+#~ msgstr "اشتراک‌گذاری شبکه‌های اجتماعی"
+
+#~ msgid "Status"
+#~ msgstr "وضعیت"
+
+#~ msgid "Order"
+#~ msgstr "ترتیب"
+
+#~ msgid "After Shortlink"
+#~ msgstr "بعد از لینک کوتاه"
+
+#~ msgid "Before Shortlink"
+#~ msgstr "قبل از لینک کوتاه"
+
+#~ msgid "Text before links"
+#~ msgstr "نوشته قبل از پیوندها"
+
+#~ msgid "Share this post:"
+#~ msgstr "اشتراک‌گذاری مطلب:"
+
+#~ msgid "the text to show before the sharing links."
+#~ msgstr "این نوشته قبل از پیوندهای اشتراک‌گذاری نمایش داده می‌شود."
+
+#~ msgid "Load Icon CSS?"
+#~ msgstr "فراخوانی استایل آیکنها؟"
+
+#~ msgid "Yes"
+#~ msgstr "بله"
+
+#~ msgid "No"
+#~ msgstr "خیر"
+
+#~ msgid "Adds simple but pretty icons to the sharing links."
+#~ msgstr "افزودن آیکنهای زیبا به پیوندهای اشتراک‌گذاری."
+
+#~ msgid "Icon Size"
+#~ msgstr "اندازه آیکن"
+
+#~ msgid "Small"
+#~ msgstr "کوچک"
+
+#~ msgid "pixels"
+#~ msgstr "پیکسل"
+
+#~ msgid "Normal"
+#~ msgstr "متوسط"
+
+#~ msgid "Load Pop-Up JS?"
+#~ msgstr "فراخوانی جاوااسکریپت پاپ‌آپ؟"
+
+#~ msgid "Open Popup Window Instead of New Tab or Window"
+#~ msgstr "ایجاد پنجره پاپ‌آپ به جای سربرگ یا پنجره جدید"
+
+#~ msgid "Twitter Username"
+#~ msgstr "نام کاربری توییتر"
+
+#~ msgid ""
+#~ "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+#~ msgstr ""
+#~ "مقدار دهید اگر می‌خواهید \"via @yourTwitterUsername\" به توییت افزوده شود."
+
+#~ msgid "WPU Shortlinks Firefox Addon"
+#~ msgstr "افزونه فایرفاکس کوتاه‌کننده‌لینک WPU"
+
+#~ msgid "Social Sharing module based by \"Social Sharing by Danny\" plugin"
+#~ msgstr ""
+#~ "ماژول اشتکراک‌گذاری لینک بر پایه افزونه \"Social Sharing by Danny\" است."
+
+#~ msgid "Twitter"
+#~ msgstr "توییتر"
+
+#~ msgid "Facebook"
+#~ msgstr "فیسبوک"
+
+#~ msgid "Google+"
+#~ msgstr "گوگل+"
+
+#~ msgid "<a href=\"http://wpu.ir\" target=\"_blank\">WPU.IR</a> url shortner"
+#~ msgstr ""
+#~ "کوتاه کننده لینک <a href=\"http://wpu.ir\" target=\"_blank\">وردپرس "
+#~ "پارسی</a>"
+
+#~ msgid "Paste your long URL Here:"
+#~ msgstr "لینک بلند را در جعبه متن زیر قرار دهید:"
+
+#~ msgid "Shorten URL"
+#~ msgstr "ایجاد لینک کوتاه"
+
+#~ msgid "Please Wait ..."
+#~ msgstr "لطفا صبر کنید ..."
+
+#~ msgid "Shortlink: "
+#~ msgstr "لینک کوتاه: "
+
+#~ msgid "Shortlink"
+#~ msgstr "لینک کوتاه"
+
+#~ msgid "Post ID Shortlink? (Optional)"
+#~ msgstr "شناسه پست لینک کوتاه؟ (اختیاری)"
+
+#~ msgid "Shortlink Title?"
+#~ msgstr "عنوان لینک کوتاه؟"
+
+#~ msgid "Add Shortlink wpu.ir"
+#~ msgstr "افزودن لینک کوتاه wpu.ir"
+
+#~ msgid "Post Shortlink"
+#~ msgstr "لینک کوتاه مطلب"
+
+#~ msgid "Shortlinker "
+#~ msgstr "کوتاه کننده لینک"
+
+#~ msgid "so people won't have to leave your website to share."
+#~ msgstr ""
+#~ "جلوگیری از خارج شدن کاربر سایت شما برای اشتراک‌گذاری.برای جلوگیری از خارج "
+#~ "شدن کاربر از سایت شما."
+
+#~ msgid "WPU Shortlink"
+#~ msgstr "کوتاه کننده لینک WPU"
